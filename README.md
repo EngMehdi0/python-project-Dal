@@ -15,6 +15,7 @@ Features
  • Excel Report Generation: Daily Excel reports, including a temperature chart, are generated and shared in the group as a document for day, month, or year-based comparisons.
  
  • Data Visualization: A chart is created and posted in the Telegram group for easier analysis.
+ 
 
 To ensure uninterrupted operation, our code has been deployed on Google Cloud Compute Engine, allowing the application to run continuously without disruptions caused by internet issues or the absence of a dedicated computer for the project.
 
